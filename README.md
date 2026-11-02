@@ -276,3 +276,4 @@ hypepilot/
 - [Twitch token validation](https://dev.twitch.tv/docs/authentication/validate-tokens/)
 - [OpenAI Realtime transcription](https://developers.openai.com/api/docs/guides/realtime-transcription)
 - [OBS WebSocket protocol](https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md)
+# HypePilot
